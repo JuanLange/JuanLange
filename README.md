@@ -1,9 +1,15 @@
-# 👋 Hi, I’m @JuanLange.
+![https://github.com/JuanLange](https://raw.githubusercontent.com/JuanLange/JuanLange/main/lange_frame01.png)
+# Hi, I’m @JuanLange.
+
+## I'm a FrontEnd Developer & UI Designer
+
+### Tech Stack
+- HTML | CSS | JS | Tailwind CSS | Bootstrap | React | Node.js | Express | Sequelize | PostgreSQL | Figma | Photoshop | Illustrator
+
+### About me
 - I live in San Martin de los Andes.
-- 👀 I’m interested in Web development, UI Design, FrontEnd, Css & more
-- 🌱 I’m currently learning React Native.
-- 🤝 I’m available for a remote job.
-- 📫 You can reach me at: juancarloslange@gmail.com
+- I’m available for a remote job.
+- You can reach me at: https://www.linkedin.com/in/juancarloslange/
 
 <!---
 JuanLange/JuanLange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
