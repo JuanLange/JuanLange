@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JuanLange. I live in San Martin de los Andes.
+# 👋 Hi, I’m @JuanLange.
+- I live in San Martin de los Andes.
 - 👀 I’m interested in Web development, UI Design, FrontEnd, Css & more
 - 🌱 I’m currently learning React Native.
 - 🤝 I’m available for a remote job.
