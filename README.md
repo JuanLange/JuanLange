@@ -1,6 +1,15 @@
 ![https://github.com/JuanLange](https://raw.githubusercontent.com/JuanLange/JuanLange/main/lange_frame01.png)
 # Hi, I’m Juan Lange.
 
+<p>
+  <a href="https://www.linkedin.com/in/juancarloslange">
+    <img src="https://img.shields.io/badge/-Juan%20Lange-034fa1?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancarloslange" />
+  </a>
+  <a href="mailto:juancarloslanges@gmail.com">
+    <img src="https://img.shields.io/badge/-juancarloslange@gmail.com-034fa1?logo=Gmail&logoColor=white&link=mailto:juancarloslange@gmail.com" />
+  </a>
+</p>
+
 ## I'm a FrontEnd Developer & UI Designer
 
 ### Tech Stack
@@ -19,9 +28,4 @@ Feel free to reach out if you share a passion for cutting-edge technology and in
 
 - I live in San Martin de los Andes.
 - I’m available for a remote job.
-- You can reach me at: https://www.linkedin.com/in/juancarloslange/
 
-<!---
-JuanLange/JuanLange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
