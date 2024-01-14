@@ -1,5 +1,5 @@
 ![https://github.com/JuanLange](https://raw.githubusercontent.com/JuanLange/JuanLange/main/lange_frame01.png)
-# Hi, I’m @JuanLange.
+# Hi, I’m Juan Lange.
 
 ## I'm a FrontEnd Developer & UI Designer
 
