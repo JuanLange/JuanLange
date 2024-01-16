@@ -19,7 +19,7 @@ let availableForRemoteWork = true;
 
 function showInformation(option) {
     switch (option) {
-        case "email":
+        case "contact":
             console.log(`Sending an email to ${name} at the address: ${email}`);
             break;
         case "moreInfo":
