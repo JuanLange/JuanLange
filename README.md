@@ -26,7 +26,7 @@ function showInformation(option) {
             console.log(`Hello! I'm ${name}, I'm ${age} years old, and I'm located in ${location}. My expertise is in ${expertise}.`);
             break;
         case "visitWeb":
-            console.error("Error! In the blacksmith's house, a wooden knife.");
+            console.error("Error! The shoemaker's son always goes barefoot.");
             break;
         default:
             console.log("Don't insist. There isn't much more. (For now).");
