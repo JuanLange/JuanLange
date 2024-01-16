@@ -8,6 +8,8 @@
  
 <br>
 
+### About me
+
 ```javascript
 const name = "Juan Lange";
 let age = 50;
@@ -33,9 +35,7 @@ function showInformation(option) {
     }
 }
 ```
-
-### About me
-
+<br>
 I am a Web Designer and Developer with over two decades of experience, specializing in Front-End development.
 I have been involved in projects for studios in the U.S., Spain, and Argentina, enriching my perspective and providing me with a strong adaptability.
 
@@ -48,6 +48,8 @@ Feel free to reach out if you share a passion for cutting-edge technology and in
 <br>
 
 > I’m available for a remote job.
+
+<br>
 
 ##### You can reach me at:
 <p>
