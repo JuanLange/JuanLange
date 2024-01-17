@@ -1,4 +1,4 @@
-![https://github.com/JuanLange](https://raw.githubusercontent.com/JuanLange/JuanLange/main/lange_frame01.png)
+![https://github.com/JuanLange](https://raw.githubusercontent.com/JuanLange/JuanLange/main/Frame.png)
 
 ## I'm a FrontEnd Developer & UI Designer
 
