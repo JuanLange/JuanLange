@@ -12,8 +12,8 @@
 
 ```javascript
 const name = "Juan Lange";
-let age = 50;
-let location = "San Martin de los Andes City";
+let age = 52;
+let location = "Concordia Entre Ríos";
 let expertise = "FrontEnd Dev & UI Design";
 const email = "juancarloslange@gmail.com";
 const linkedin = "https://www.linkedin.com/in/juancarloslange/";
