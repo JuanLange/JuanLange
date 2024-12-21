@@ -4,7 +4,7 @@
 
 
 ### Tech Stack
- `HTML`  `CSS`  `JS`  `Tailwind CSS`  `Bootstrap`  `React`  `Node.js`  `Express`  `Sequelize`  `PostgreSQL`  `Figma`  `Photoshop`  `Illustrator`
+ `HTML`  `CSS`  `JS`  `TypeScript`  `Tailwind CSS`  `React`  `Node.js`  `Express`  `Sequelize`  `Prisma`  `PostgreSQL`  `Figma`  `Photoshop`  `Illustrator`
  
 <br>
 
